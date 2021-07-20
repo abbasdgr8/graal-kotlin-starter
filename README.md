@@ -12,6 +12,7 @@ Kotlin CLI application that generates a cross-platform native executable using G
 - Ming X 64
 
 ## Running the executable
+Running the native executable does not require any dependencies or installations. The generated binary contains all the dependencies it needs within itself. As a result, you can execute the binary just from the bash or the shell without having anything else installed - not even Java
 ```bash
 # Usage (Linux & Mac)
 $ ./cli-executable
