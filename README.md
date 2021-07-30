@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0)
 
 
-Kotlin CLI application that generates a cross-platform native executable using GraalVM
+Kotlin application that generates a cross-platform native executable using GraalVM
 
 #### Generated Artifact is confirmed to be working on all three platforms
 - Linux X 64
