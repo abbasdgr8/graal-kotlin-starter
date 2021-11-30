@@ -12,7 +12,7 @@ Kotlin application that generates a cross-platform native executable using Graal
 - Ming X 64
 
 ## Running the executable
-Running the native executable does not require any dependencies or installations. The generated binary contains all the dependencies it needs within itself. As a result, you can execute the binary just from the bash or the shell without having anything else installed - not even Java
+Running the native executable does not require any dependencies or installations. The generated binary contains all the dependencies it needs within itself. As a result, you can execute the binary just from the bash or the shell without having anything else installed - not even JRE!
 ```bash
 # Usage (Linux & Mac)
 $ ./cli-executable
